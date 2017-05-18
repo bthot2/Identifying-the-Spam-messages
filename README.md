@@ -1,4 +1,4 @@
-a# Identifying-the-Spam-messages
+Identifying-the-Spam-messages
 A text dataset is taken which contains the actual message and an dependent variable indicating whether the message is spam or ham.
 The text messages are preprocessed-removed numbers, punctuation, stopwords, white spaces, performed stemming.
 Document term matrix is created and frequent words are identified.
